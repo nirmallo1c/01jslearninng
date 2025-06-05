@@ -16,3 +16,5 @@ let isLoggdIn=false
 
 
 console.log(typeof "name");
+console.log(name);
+
